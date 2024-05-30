@@ -5,3 +5,8 @@ Data: <img width="355" alt="image" src="https://github.com/GauravPathak77/210097
 <img width="268" alt="image" src="https://github.com/GauravPathak77/2100970130038/assets/115170827/b0c66b24-ecdb-4f35-80d8-bf33b27727b5">
 <img width="212" alt="image" src="https://github.com/GauravPathak77/2100970130038/assets/115170827/bd041b5d-2595-439c-b558-db2bb28ee564">
 
+output: ![image](https://github.com/GauravPathak77/2100970130038/assets/115170827/fdc65aad-8a5f-4c50-9eec-86c09ef7470f)
+![image](https://github.com/GauravPathak77/2100970130038/assets/115170827/7bf50274-87ea-454f-8c54-652d07591917)
+
+
+
